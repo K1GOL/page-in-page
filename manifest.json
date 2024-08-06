@@ -1,0 +1,11 @@
+{
+  "name": "Page-in-page",
+  "action": {},
+  "manifest_version": 3,
+  "version": "0.1.0",
+  "description": "Open multiple pages in the same window with overlayed modals.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "sw.js"
+  }
+}
