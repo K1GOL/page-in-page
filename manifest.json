@@ -2,7 +2,7 @@
   "name": "Page-in-page",
   "action": {},
   "manifest_version": 3,
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Open multiple pages in the same window with overlayed modals.",
   "permissions": [
     "tabs",
